@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Londrina+Solid');
+body, html {
+    height: 100%;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://freealts.pw/assets/img/bg.jpg);
+    overflow: hidden;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.gen {
+    background: white;
+    margin: 10% auto auto;
+    width: 500px;
+    text-align: center;
+}
+.gen-header {
+  background: #287dfe;
+  box-shadow: 0px 1px 7px #545454;
+  -moz-box-shadow: 0px 1px 7px #545454;
+  -webkit-box-shadow: 0px 1px 7px #545454;
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+  padding: 0px;
+}
+.title-gen {
+    color: whitesmoke;
+    position: relative;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0px;
+    bottom: 20px;
+}
+.gen-middle {
+  height: 300px;
+    color: #858585;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 12px;
+}
+.accDisplay {
+  color: black;
+}
+.button {
+  margin: auto;
+  width: 90%;
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  /* border-radius: 15px; */
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button1 {
+  margin: auto;
+  width: 90%;
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #FF2D00;
+  border: none;
+  /* border-radius: 15px; */
+  box-shadow: 0 9px #999;
+}
+
+.button1:hover {background-color: #C72300}
+
+.button1:active {
+  background-color: #C72300;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
